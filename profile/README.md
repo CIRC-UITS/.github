@@ -32,7 +32,7 @@ If you have any questions, ideas, or feedback, feel free to reach out to us.
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is licensed under the [Apache 2.0 License](/profile/LICENSE).
 
 ## Funds
 
