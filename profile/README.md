@@ -30,10 +30,6 @@ If you have any questions, ideas, or feedback, feel free to reach out to us.
 - Instagram: [@circuitsproject.eu](https://www.instagram.com/circuitsproject.eu/)
 - YouTube: [Circ-uits Project](https://www.youtube.com/channel/UCcMgCx882p1VcOtY5iIAKFw)
 
-## License
-
-This project is licensed under the [Apache 2.0 License](/profile/LICENSE).
-
 ## Funds
 
 This project has received funding from the European Union Horizon Programme under Grant Agreement NO 101091490.
